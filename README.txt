@@ -3,7 +3,7 @@ UT Austin Data Structures Projects
 Unable to publish actual code due to academic integrity policy
 
 Boggle                     October 28, 2022
-    Created and tested a Boggle game that effiently parses through thousands of words in log(n) time complexity using a trie
+    Created and tested a Boggle game that effiently parses through hundreds of thousands of words in log(n) time complexity using a trie
     Also created a GUI to visualize the boggle grid and allow users to click-and-drag words
 
 Tetris                     October 8, 2022
